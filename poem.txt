@@ -1,7 +1,9 @@
+Radio waves
+Microwaves
 Infrared
-
-The Rainbow: Visible Light Spectrum
-
+-
+Visible Light Spectrum
+The Rainbow
 Red
 Orange
 Yellow 
@@ -9,7 +11,7 @@ Green
 Blue
 Indigo
 Purple
-
-These are the colors of the rainbow.
-
+-
 Ultraviolet
+X-rays
+Gamma rays
