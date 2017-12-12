@@ -1,4 +1,6 @@
-The Rainbow: Visible Spectrum
+Infrared
+
+The Rainbow: Visible Light Spectrum
 
 Red
 Orange
@@ -9,3 +11,5 @@ Indigo
 Purple
 
 These are the colors of the rainbow.
+
+Ultraviolet
